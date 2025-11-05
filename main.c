@@ -1,4 +1,5 @@
+#include <stdio.h>
 int main(void) {
-puts("Bonjour !");
+put("Bonjour !");
 return 0;
 }
